@@ -1,6 +1,6 @@
 410 Gone:
 
 The requested file is no longer available and will not be available again.
-This file was deleted due to security reasons, do not request it in the future.
+This is because it was deleted for security reasons, please don't request this file in the future.
 
-Sorry for the inconvenience.
+Apologies for the inconvenience.
