@@ -1,112 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://logicalbranch.github.io/</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Rust/a-brief-introduction-to-memory-management-in-rust.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Web%20Development/a-non-technical-introduction-to-http-and-https.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/CSS/how-to-change-the-default-font-in-bootstrap.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Go%20Lang/globbing-in-go.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/CSS/how-to-extend-parent-selectors-in-sass.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Python/an-introduction-to-the-pip-package-manager.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Rust/a-rustaceans-introduction-to-the-cargo-package-manager.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/JavaScript/environment-detection-in-javascript.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Perl/how-to-call-a-subprocess-in-perl.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Git/how-to-avoid-retyping-the-git-keyword.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Rust/why-type-declarations-for-rust-constants-should-be-unnecessary.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/JavaScript/how-to-check-if-a-javascript-function-is-empty.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Python/a-guide-to-pythons-data-types.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/JavaScript/how-to-select-sibling-elements-using-javascript.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/JavaScript/how-to-modify-regexp-flags.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/JavaScript/rudimentary-performance-testing-in-javascript.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/HTML/how-to-open-html-links-in-new-tabs.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Python/how-to-create-a-development-server-using-http-server.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://logicalbranch.github.io/articles/Rust/how-to-install-rust-on-unix.html</loc>
-  <lastmod>2022-06-13T06:10:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
-</urlset>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Refresh" content="0; url='https://malekaia.co.uk/sitemap.xml'" />
+  <title>Redirect | LogicalBranch</title>
+  <style type="text/css">
+    body {
+      text-align: center;
+      padding: 10% 0;
+      font-family: Arial, Helvetica, sans-serif
+    }
+    h2 {
+      margin-bottom: 10px
+    }
+    a {
+      text-decoration: none !important;
+    }
+  </style>
+</head>
+<body>
+  <h2>This site has been renamed to <a href="https://malekaia.co.uk">Malekaia</a></h2>
+  <p>If you are not redirected automatically, please <a href="https://malekaia.co.uk/sitemap.xml">click here</a>.</p>
+</body>
+</html>
