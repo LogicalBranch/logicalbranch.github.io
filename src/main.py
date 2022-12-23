@@ -22,7 +22,7 @@ def create_article_url_variants(file_path):
     re.sub(".html$", "/index.html", file_path.replace("_", "-"))
   ]
   # Complex category names
-  if "_" in file_path.split("/")[3]:
+  if "_" in file_path.split("/")[2]:
     # Category with a space
     variants.append(file_path.replace("_", "%20", 1))
     variants.append(re.sub(".html$", "/index.html", variants[-1]))
